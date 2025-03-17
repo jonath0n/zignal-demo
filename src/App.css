@@ -52,7 +52,7 @@
 }
 
 .message-item {
-  padding: 15px;
+  padding: 12px 15px;
   border-bottom: 1px solid #e1e4e8;
   cursor: pointer;
   transition: background-color 0.2s;
@@ -104,7 +104,7 @@
 .message-date {
   font-size: 0.8rem;
   color: #6a737d;
-  margin-top: 8px;
+  margin-top: 2px;
 }
 
 .message-actions {

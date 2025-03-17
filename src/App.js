@@ -84,7 +84,6 @@ function CustomInbox() {
               >
                 <div className="message-item-content">
                   <h3>{message.title || 'No Title'}</h3>
-                  <p>{message.preview || 'No preview available'}</p>
                   <div className="message-date">
                     {new Date(message.created).toLocaleDateString()}
                   </div>
