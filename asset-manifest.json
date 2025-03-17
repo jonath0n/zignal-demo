@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zignal-demo/static/css/main.e1057395.css",
+    "main.js": "/zignal-demo/static/js/main.5a14d608.js",
+    "static/js/453.892649a4.chunk.js": "/zignal-demo/static/js/453.892649a4.chunk.js",
+    "index.html": "/zignal-demo/index.html",
+    "main.e1057395.css.map": "/zignal-demo/static/css/main.e1057395.css.map",
+    "main.5a14d608.js.map": "/zignal-demo/static/js/main.5a14d608.js.map",
+    "453.892649a4.chunk.js.map": "/zignal-demo/static/js/453.892649a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1057395.css",
+    "static/js/main.5a14d608.js"
+  ]
+}
