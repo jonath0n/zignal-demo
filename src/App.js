@@ -125,8 +125,8 @@ function CustomInbox() {
             <div className="message-body">
               <p>{selectedMessage.preview || 'No content available'}</p>
               
-              {/* Display message data if available */}
-              {selectedMessage.data && (
+              {/* Display message data if available and not empty */}
+              {selectedMessage.data && Object.keys(selectedMessage.data).length > 0 && (
                 <div className="message-data">
                   <h3>Additional Data:</h3>
                   <pre>{JSON.stringify(selectedMessage.data, null, 2)}</pre>
